@@ -1,0 +1,258 @@
+// !$*UTF8*$!
+{
+	6E123C9714F22557002FB194 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E123C9814F22557002FB194 /* ofSoundPlayer.h */;
+		name = "ofSoundPlayer.h: 42";
+		rLen = 49;
+		rLoc = 926;
+		rType = 0;
+		vrLen = 885;
+		vrLoc = 705;
+	};
+	6E123C9814F22557002FB194 /* ofSoundPlayer.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = ofSoundPlayer.h;
+		path = /Users/soyoung/development/of_preRelease_v007_osx/libs/openFrameworks/sound/ofSoundPlayer.h;
+		sourceTree = "<absolute>";
+	};
+	6E123C9914F22557002FB194 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E123C9A14F22557002FB194 /* ofSoundPlayer.cpp */;
+		name = "ofSoundPlayer.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 961;
+		vrLoc = 469;
+	};
+	6E123C9A14F22557002FB194 /* ofSoundPlayer.cpp */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = ofSoundPlayer.cpp;
+		path = /Users/soyoung/development/of_preRelease_v007_osx/libs/openFrameworks/sound/ofSoundPlayer.cpp;
+		sourceTree = "<absolute>";
+	};
+	6E5B7A5714F452AE00349C96 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4B69E1D0A3A1BDC003C02F2 /* main.cpp */;
+		name = "main.cpp: 9";
+		rLen = 0;
+		rLoc = 232;
+		rType = 0;
+		vrLen = 415;
+		vrLoc = 0;
+	};
+	6E5B7A8914F4564700349C96 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E5B7A8A14F4564700349C96 /* ofArduino.h */;
+		name = "ofArduino.h: 165";
+		rLen = 19;
+		rLoc = 7806;
+		rType = 0;
+		vrLen = 1358;
+		vrLoc = 6944;
+	};
+	6E5B7A8A14F4564700349C96 /* ofArduino.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = ofArduino.h;
+		path = /Users/soyoung/development/of_preRelease_v007_osx/libs/openFrameworks/communication/ofArduino.h;
+		sourceTree = "<absolute>";
+	};
+	6E5B7AE214F462BC00349C96 /* testApp.cpp:153 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E4B69E1E0A3A1BDC003C02F2 /* testApp.cpp */;
+		functionName = "testApp::updateArduino()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 153;
+		location = soundPlayerExampleDebug;
+		modificationTime = 352253512.236864;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	6E5B7B5214F4740400349C96 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E5B7B5314F4740400349C96 /* ofArduino.cpp */;
+		name = "ofArduino.cpp: 179";
+		rLen = 0;
+		rLoc = 4649;
+		rType = 0;
+		vrLen = 1009;
+		vrLoc = 4003;
+	};
+	6E5B7B5314F4740400349C96 /* ofArduino.cpp */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = ofArduino.cpp;
+		path = /Users/soyoung/development/of_preRelease_v007_osx/libs/openFrameworks/communication/ofArduino.cpp;
+		sourceTree = "<absolute>";
+	};
+	6E97BAE214D5469600ECD6C6 /* soundPlayerExample */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = soundPlayerExample;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	6E97BB0B14D546B300ECD6C6 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	6E97BB0C14D546B300ECD6C6 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	6EB8FBB914FEF64A00ECF4F9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4B69E1F0A3A1BDC003C02F2 /* testApp.h */;
+		name = "testApp.h: 50";
+		rLen = 0;
+		rLoc = 1110;
+		rType = 0;
+		vrLen = 1116;
+		vrLoc = 0;
+	};
+	6EB8FBBA14FEF64A00ECF4F9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4B69E1E0A3A1BDC003C02F2 /* testApp.cpp */;
+		name = "testApp.cpp: 331";
+		rLen = 0;
+		rLoc = 8335;
+		rType = 0;
+		vrLen = 1391;
+		vrLoc = 0;
+	};
+	6EB8FBCA1502608500ECF4F9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4B69E1E0A3A1BDC003C02F2 /* testApp.cpp */;
+		name = "testApp.cpp: 332";
+		rLen = 0;
+		rLoc = 8304;
+		rType = 0;
+		vrLen = 1307;
+		vrLoc = 7545;
+	};
+	E4B69B4C0A3A1720003C02F2 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 6E97BAE214D5469600ECD6C6 /* soundPlayerExample */;
+		activeTarget = E4B69B5A0A3A1756003C02F2 /* soundPlayerExample */;
+		addToTargets = (
+			E4B69B5A0A3A1756003C02F2 /* soundPlayerExample */,
+		);
+		breakpoints = (
+			6E5B7AE214F462BC00349C96 /* testApp.cpp:153 */,
+		);
+		codeSenseManager = 6E97BB0C14D546B300ECD6C6 /* Code sense */;
+		executables = (
+			6E97BAE214D5469600ECD6C6 /* soundPlayerExample */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					755,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 352251692;
+			PBXWorkspaceStateSaveDate = 352251692;
+		};
+		perUserProjectItems = {
+			6E123C9714F22557002FB194 /* PBXTextBookmark */ = 6E123C9714F22557002FB194 /* PBXTextBookmark */;
+			6E123C9914F22557002FB194 /* PBXTextBookmark */ = 6E123C9914F22557002FB194 /* PBXTextBookmark */;
+			6E5B7A5714F452AE00349C96 /* PBXTextBookmark */ = 6E5B7A5714F452AE00349C96 /* PBXTextBookmark */;
+			6E5B7A8914F4564700349C96 /* PBXTextBookmark */ = 6E5B7A8914F4564700349C96 /* PBXTextBookmark */;
+			6E5B7B5214F4740400349C96 /* PBXTextBookmark */ = 6E5B7B5214F4740400349C96 /* PBXTextBookmark */;
+			6EB8FBB914FEF64A00ECF4F9 /* PBXTextBookmark */ = 6EB8FBB914FEF64A00ECF4F9 /* PBXTextBookmark */;
+			6EB8FBBA14FEF64A00ECF4F9 /* PBXTextBookmark */ = 6EB8FBBA14FEF64A00ECF4F9 /* PBXTextBookmark */;
+			6EB8FBCA1502608500ECF4F9 /* PBXTextBookmark */ = 6EB8FBCA1502608500ECF4F9 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 6E97BB0B14D546B300ECD6C6 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	E4B69B5A0A3A1756003C02F2 /* soundPlayerExample */ = {
+		activeExec = 0;
+		executables = (
+			6E97BAE214D5469600ECD6C6 /* soundPlayerExample */,
+		);
+	};
+	E4B69E1D0A3A1BDC003C02F2 /* main.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {933, 650}}";
+			sepNavSelRange = "{232, 0}";
+			sepNavVisRange = "{0, 415}";
+		};
+	};
+	E4B69E1E0A3A1BDC003C02F2 /* testApp.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {933, 4797}}";
+			sepNavSelRange = "{8304, 0}";
+			sepNavVisRange = "{7545, 1307}";
+			sepNavWindowFrame = "{{194, 11}, {1039, 867}}";
+		};
+	};
+	E4B69E1F0A3A1BDC003C02F2 /* testApp.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {933, 715}}";
+			sepNavSelRange = "{1110, 0}";
+			sepNavVisRange = "{0, 1116}";
+			sepNavWindowFrame = "{{15, 6}, {1039, 867}}";
+		};
+	};
+}
